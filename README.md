@@ -1,2 +1,2 @@
 # nanoGPT
-Implementation of Andrej Karpathy's nanoGPT with Spotify Lyrics Data
+Implementation of Andrej Karpathy's nanoGPT trained using Spotify Lyrics Data with Transformers Architecture.
